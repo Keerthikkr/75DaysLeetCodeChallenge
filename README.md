@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
@@ -282,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
