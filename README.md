@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/2460-apply-operations-to-an-array) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
 ## Linked List
 |  |
 | ------- |
