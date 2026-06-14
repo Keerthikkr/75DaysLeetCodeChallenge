@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Monotonic Stack
@@ -309,7 +310,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/2460-apply-operations-to-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Keerthikkr/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
